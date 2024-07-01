@@ -36,13 +36,10 @@ print(data)
 data = {10, 10.5, True, "RNS", "Tech"}
 for item in data:
     print(item)
-
 """
+
 # removing duplicates from list
 my_list = [1, 3, 5, 1, 9, 5, 1]
 my_set = list(set(my_list))
 print(my_set)
-
-
-
 
