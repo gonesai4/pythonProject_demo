@@ -46,7 +46,8 @@ for val in data.values():
 emp = {"name": "RNS Tech",
        "age": 12,
         "skills": ["AWS", "DevOps", "Python"],
-        "salary": "2L"}
+        "salary": "2L"
+        }
 
 # Adding item in dictionary
 emp["address"] = ["Flat", "Street", "City", "State", "Pincode"]
@@ -71,5 +72,3 @@ emp = {"name": "RNS Tech",
 print(emp["skills"]["Cloud"])
 
 """
-
-

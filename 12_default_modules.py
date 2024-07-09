@@ -103,7 +103,3 @@ exit()      # exiting the process here
 print("after exit statement")
 
 """
-
-
-
-
