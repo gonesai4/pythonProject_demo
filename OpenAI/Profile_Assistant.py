@@ -1,7 +1,7 @@
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="sk-proj-LCqPPEGdjkWaes3CYVvaT3BlbkFJOsUqs4RwVYMZfUZplnIN"
+    api_key="aghraghas"
 )
 
 assistant = client.beta.assistants.create(
